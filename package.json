@@ -1,7 +1,7 @@
 {
-  "name": "my-app",
-  "productName": "my-app",
-  "version": "1.1.0",
+  "name": "MyApp",
+  "productName": "MyApp",
+  "version": "1.1.1",
   "description": "My Electron application description",
   "main": "src/index.js",
   "scripts": {
@@ -44,7 +44,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "my-app",
+            "name": "MyApp",
             "setupIcon": "src/favicon.ico"
           }
         },
